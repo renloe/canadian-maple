@@ -1,0 +1,8 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/4474ee6e-e6ba-4713-84fb-352671caeb85/resourceGroups/xyz/providers/Microsoft.Web/sites/bobbyearl",
+  "appService.deploySubpath": "dist\\canadian-maple",
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ]
+}
